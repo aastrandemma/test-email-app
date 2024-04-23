@@ -1,6 +1,5 @@
 package com.github.aastrandemma;
 
-import com.github.aastrandemma.model.Email;
 import com.github.aastrandemma.service.EmailService;
 import com.github.aastrandemma.service.EmailServiceImpl;
 import com.github.aastrandemma.exception.EmailException;
